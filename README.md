@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
+<h1 align="center">Hi 👋, I'm Jay Yanoc</h1>
 <h3 align="center">Amazon FBA & Shopify E-Commerce Specialist</h3>
 
 <p align="center">
@@ -23,10 +23,7 @@
 
 * Product Research (Winning products)
 * Listing Optimization (SEO titles, bullet points, A+ Content)
-* Keyword Research (Helium 10, Jungle Scout)
-* Amazon PPC Campaigns (Sponsored Ads)
-* Competitor Analysis
-
+  
 ### 🏪 Shopify
 
 * Store Setup & Customization
@@ -37,53 +34,8 @@
 
 ### 📊 Tools
 
-* Helium 10
-* Jungle Scout
 * Google Analytics
 * Canva / Photoshop
-
----
-
-## 📌 Case Studies / Projects
-
-### 🛍️ Amazon Product Launch
-
-* 🚀 Launched a new product in a competitive niche
-* 📈 Reached **Top 10 ranking** for main keyword
-* 💰 Generated consistent daily sales
-* 🔧 Optimized listing + ran PPC campaigns
-
----
-
-### 📦 Amazon Listing Optimization
-
-* 📊 Improved CTR and conversion rate
-* 🏆 Increased sales by **45% in 2 months**
-* ✍️ Rewrote title, bullets, and description using SEO
-
----
-
-### 🏪 Shopify Store Build & Optimization
-
-* 🛒 Built a complete Shopify store from scratch
-* 🎯 Optimized product pages for conversions
-* 📈 Increased conversion rate by **30%**
-
----
-
-### 💸 Shopify Sales Funnel Project
-
-* Created landing page + upsell funnel
-* Improved AOV (Average Order Value)
-* Integrated payment + email marketing
-
----
-
-## 📈 Results Snapshot
-
-* 💰 Increased store revenue
-* 📊 Improved conversion rates
-* 🔍 Ranked products on search results
 
 ---
 
@@ -98,9 +50,8 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [your@email.com](mailto:your@email.com)
-* 💼 LinkedIn: https://linkedin.com/in/yourname
-
+* 📧 Email: [jayyanoc143@gmail.com)
+* 💼 Phone: +6398715695
 ---
 
 ⭐️ Let’s build and scale profitable eCommerce businesses!
