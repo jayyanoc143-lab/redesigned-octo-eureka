@@ -39,15 +39,6 @@
 
 ---
 
-## 📸 Portfolio Proof (IMPORTANT)
-
-* Screenshots from Amazon Seller Central
-* Shopify dashboard sales data
-* Before/after SEO rankings
-* Product listing examples
-
----
-
 ## 📫 Contact Me
 
 * 📧 Email: [jayyanoc143@gmail.com)
